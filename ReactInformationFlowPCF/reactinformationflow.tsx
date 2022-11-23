@@ -1,11 +1,6 @@
-//----------------------------
-//Imports
-//----------------------------
-
-//React
-import * as React from 'react';
 import * as ReactDOM from 'react-dom';
-import { forwardRef, useImperativeHandle, useRef } from "react"
+import * as React from 'react';
+import { forwardRef, useImperativeHandle, useRef } from "react";
 
 interface InputProps{
 }
